@@ -9,7 +9,8 @@ html {
 }
 
 .visually-hidden{
-  display: none;
+  top:-1000px;
+  position: absolute;
 }
 
 body {
